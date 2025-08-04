@@ -28,21 +28,17 @@ Veritabanı: SQL Server
 
 - Personel atama.
 
-📅 İzin Takibi:
-
-- Yıllık izin kayıtları.
-
 2. Maaşlar
    
 💰 Maaş Yönetimi:
 
-- Brüt/Net maaş hesaplama
+- Net maaş 
 
 3. Raporlama
    
 📊 Personel Listesi:
 
-- Filtreleme (Departman, görev, maaş aralığı).
+- Filtreleme (Maaş aralığı).
 
 📈 İstatistikler:
 
